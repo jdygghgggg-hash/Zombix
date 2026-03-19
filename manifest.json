@@ -1,0 +1,59 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "A perfect textures pack for redstone/pvp/survival anything that in between",
+    "name": "PixelSnap",
+    "uuid": "5ba53246-8296-4e52-af5c-bb0d9cfab5cd",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "d86fe245-fcfc-40f4-b9cb-95295e702fa4",
+      "version": [1, 0, 0]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "everything",
+      "name": "Everything at once",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "pvp_bedwars",
+      "name": "PvP + Bedwars",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "bedwars",
+      "name": "Bedwars",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "pvp",
+      "name": "PvP",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "redstone_survival",
+      "name": "Redstone + Survival",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "survival",
+      "name": "Survival",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "redstone",
+      "name": "Redstone",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "default",
+      "name": "Default",
+      "memory_tier": 0
+    }
+  ]
+}
